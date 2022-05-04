@@ -21,3 +21,7 @@ programmer:
 mascot:
   icon: fas fa-dog
   text: Mascot
+
+technician:
+  icon: fas fa-flask-vial
+  text: Lab Technician
