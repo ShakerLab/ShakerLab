@@ -4,7 +4,7 @@ image: images/joshua-castle.jpg
 description: Research Lab Technician II
 role: technician
 links:
-  home-page: https://www.linkedin.com/in/joshua-castle-492572177/
+  linkedin: https://www.linkedin.com/in/joshua-castle-492572177/
   email: joshua.castle@med.usc.edu
   github: Kas-tle
 ---
