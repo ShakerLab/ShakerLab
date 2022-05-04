@@ -1,18 +1,10 @@
 ---
-name: Upton O. Goode
-image: images/member.jpg
-description: Bone Investigator
-role: pi
-aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+name: Atousa Khalatbari
+image: images/atousa-khalatbari.jpg
+description: Research Associate
+role: postdoc
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
----
+  email: atousa.khalatbari@med.usc.edu
+--
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
+Atousa Khalatbari, MD, MS. A graduate of Tehran University of Medical Science, Atousa brings her expertise in molecular biology to the lab. She is particularly interested in the field of  Immunopharmacology and the designing/testing of novel anti-inflammatory drugs.
