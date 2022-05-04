@@ -2,27 +2,10 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# About Us
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our lab focuses on delineating the role of epithelial-stromal interactions in regulating injury, repair, inflammation and cancer development in the human esophagus. We use a variety of experimental approaches including traditional cell culture and complementary 3D-organotypic/organoid models to recapitulate esophageal tissue and disease in vitro to understand the  pathways involved. We also use databases and pathology samples to learn more about clinical risk factors for disease and to study the human esophagus in different states: healthy, inflamed or damaged, and with cancer.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
@@ -31,16 +14,15 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% include section.html %}
 
-# Highlights
+# Current Projects
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are currently working on multiple grant-funded projects.
 
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="hemfs"
+  text="Human esophageal myofibroblasts (HEMFs)"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -50,19 +32,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="hemfs"
+  title="Human esophageal myofibroblasts (HEMFs)"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are establishing human esophageal myofibroblasts (HEMFs) from biopsies and full thickness specimens from normal and diseased human esophagus.
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="esophageal-disorders"
+  text="Benign and malignant esophageal disorders"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -72,19 +53,19 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="esophageal-disorders"
+  title="Benign and malignant esophageal disorders"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use established and cutting-edge techniques including high throughput sequencing and complementary organoid/organotypic models to identify the role of human esophageal myofibroblasts in benign and malignant esophageal disorders.
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="oral-pharyngeal-dysphagia"
+  text="Oral-pharyngeal dysphagia therapy"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -94,10 +75,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="oral-pharyngeal-dysphagia"
+  title="Oral-pharyngeal dysphagia therapy"
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Pharyngeal muscle weakness and dysphagia is common in individuals post-stroke or with Parkinson’s disease and in individuals with head/neck cancer who have undergone surgery and/or radiation therapy. Therapeutic options for these patients are limited. In collaboration with our Speech Pathology colleagues, this pilot study is intended to assess the feasibility, safety, and efficacy of the External Pharyngeal Exerciser (EPE) on patients with pharyngeal dysphagia receiving swallow therapy.
