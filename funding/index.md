@@ -2,7 +2,7 @@
 title: Funding
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Grants and funding sources
 ---
 
 # <i class="fas fa-tools"></i>Funding
