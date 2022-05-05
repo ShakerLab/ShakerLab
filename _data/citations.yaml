@@ -1,63 +1,243 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/s10620-020-06482-1
+  title: Gender-Specific Risk Factors for Reflux Esophagitis in a Predominantly Hispanic
+    Population of a Large Safety-Net Hospital
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Shida Haghighat
+  - Caron Park
+  - Brian Horwich
+  - Yao Liu
+  - Edy Soffer
+  - Gregory Idos
+  - Anisa Shaker
+  publisher: Digestive Diseases and Sciences
+  date: '2020-07-20'
+  link: https://doi.org/gg7dnn
+- id: doi:10.1371/journal.pone.0238852
+  title: Human esophageal myofibroblasts increase squamous epithelial thickness via
+    paracrine mechanisms in an in vitro model of gastroesophageal reflux disease
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Liping Hu
+  - Chunying Zhang
+  - Kevin Yang
+  - Meng Li
+  - Anisa Shaker
+  publisher: PLOS ONE
+  date: '2020-09-14'
+  link: https://doi.org/gp32s7
+- id: doi:10.1038/s41598-018-30799-7
+  title: Human esophageal myofibroblast secretion of bone morphogenetic proteins and
+    GREMLIN1 and paracrine regulation of squamous epithelial growth
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Chunying Zhang
+  - Chao Niu
+  - Kevin Yang
+  - Anisa Shaker
+  publisher: Scientific Reports
+  date: '2018-08-17'
+  link: https://doi.org/gd7qs6
+- id: doi:10.1111/nyas.13151
+  title: Pharmacological and other treatment modalities for esophageal pain
+  authors:
+  - Dag Arne Lihaug Hoff
+  - Christina Brock
+  - Adam D. Farmer
+  - Ram Dickman
+  - James K. Ruffle
+  - Anisa Shaker
+  - "Asbj\xF8rn M. Drewes"
+  publisher: Annals of the New York Academy of Sciences
+  date: '2016-07-21'
+  link: https://doi.org/gp32s8
+- id: doi:10.1111/nyas.13157
+  title: 'Contribution of immunomodulators to gastroesophageal reflux disease and
+    its complications: stromal cells, interleukin 4, and adiponectin'
+  authors:
+  - Jing Li
+  - Xiaoxin Luke Chen
+  - Anisa Shaker
+  - Tadayuki Oshima
+  - Jing Shan
+  - Hiroto Miwa
+  - Cheng Feng
+  - Jun Zhang
+  publisher: Annals of the New York Academy of Sciences
+  date: '2016-07-21'
+  link: https://doi.org/gp32s9
+- id: doi:10.1111/nyas.13109
+  title: Provocative testing of the esophagus and its future
+  authors:
+  - Adam D. Farmer
+  - Marianna Franchina
+  - Hans Gregersen
+  - Roberto Penagini
+  - Anisa Shaker
+  - Edy Soffer
+  publisher: Annals of the New York Academy of Sciences
+  date: '2016-06-16'
+  link: https://doi.org/gp32tb
+- id: doi:10.1371/journal.pone.0153185
+  title: Generation and Characterization of an Immortalized Human Esophageal Myofibroblast
+    Line
+  authors:
+  - Chao Niu
+  - Uday Chauhan
+  - Matthew Gargus
+  - Anisa Shaker
+  publisher: PLOS ONE
+  date: '2016-04-07'
+  link: https://doi.org/f9hwzt
+- id: doi:10.1152/ajpgi.00333.2014
+  title: Human esophageal myofibroblasts secrete proinflammatory cytokines in response
+    to acid and Toll-like receptor 4 ligands
+  authors:
+  - Matthew Gargus
+  - Chao Niu
+  - John G. Vallone
+  - Jana Binkley
+  - Deborah C. Rubin
+  - Anisa Shaker
+  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
+  date: '2015-06-01'
+  link: https://doi.org/f7fwmp
+- id: doi:10.3791/52215
+  title: Isolation of Myofibroblasts from Mouse and Human Esophagus
+  authors:
+  - Matthew Gargus
+  - Chao Niu
+  - Anisa Shaker
+  publisher: Journal of Visualized Experiments
+  date: '2015-01-18'
+  link: https://doi.org/gm5gj6
+- id: doi:10.1016/j.trsl.2014.03.007
+  title: "Epimorphin\u2212/\u2212 mice are protected, in part, from acute colitis\
+    \ via decreased interleukin 6 signaling"
+  authors:
+  - Anisa Shaker
+  - Matthew Gargus
+  - Julie Fink
+  - Jana Binkley
+  - Isra Darwech
+  - Elzbieta Swietlicki
+  - Marc S. Levin
+  - Deborah C. Rubin
+  publisher: Translational Research
+  date: '2014-07-01'
+  link: https://doi.org/gp32tc
+- id: doi:10.1038/ajg.2013.289
+  title: Multiple Rapid Swallow Responses During Esophageal High-Resolution Manometry
+    Reflect Esophageal Body Peristaltic Reserve
+  authors:
+  - Anisa Shaker
+  - Nathaniel Stoikes
+  - Jesse Drapekin
+  - Vladimir Kushnir
+  - Michael L Brunt
+  - Prakash C Gyawali
+  publisher: American Journal of Gastroenterology
+  date: '2013-11-01'
+  link: https://doi.org/f5g9wd
+- id: doi:10.1152/ajpgi.00486.2012
+  title: Epimorphin deletion inhibits polyposis in the<i>Apc</i><sup><i>min/+</i></sup>mouse
+    model of colon carcinogenesis via decreased myofibroblast HGF secretion
+  authors:
+  - Elzbieta A. Swietlicki
+  - Shashi Bala
+  - Jianyun Lu
+  - Anisa Shaker
+  - Gowri Kularatna
+  - Marc S. Levin
+  - Deborah C. Rubin
+  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
+  date: '2013-10-15'
+  link: https://doi.org/f5c7bt
+- id: doi:10.1152/ajpgi.00225.2012
+  title: Stromal cells participate in the murine esophageal mucosal injury response
+  authors:
+  - Anisa Shaker
+  - Jana Binkley
+  - Isra Darwech
+  - Elzbieta Swietlicki
+  - Keely McDonald
+  - Rodney Newberry
+  - Deborah C. Rubin
+  publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
+  date: '2013-04-01'
+  link: https://doi.org/f4vvm7
+- id: doi:10.3791/4100
+  title: Modeling Colitis-Associated Cancer with Azoxymethane (AOM) and Dextran Sulfate
+    Sodium (DSS)
+  authors:
+  - Ameet I. Thaker
+  - Anisa Shaker
+  - M. Suprada Rao
+  - Matthew A. Ciorba
+  publisher: Journal of Visualized Experiments
+  date: '2012-09-11'
+  link: https://doi.org/ghx6rd
+- id: doi:10.1007/s00464-012-2350-0
+  title: The value of multiple rapid swallows during preoperative esophageal manometry
+    before laparoscopic antireflux surgery
+  authors:
+  - Nathaniel Stoikes
+  - Jesse Drapekin
+  - Vladimir Kushnir
+  - Anisa Shaker
+  - L. Michael Brunt
+  - C. Prakash Gyawali
+  publisher: Surgical Endoscopy
+  date: '2012-05-31'
+  link: https://doi.org/gp32td
+- id: doi:10.3389/fimmu.2012.00107
+  title: 'Chronic intestinal inflammation: inflammatory bowel disease and colitis-associated
+    colon cancer'
+  authors:
+  - Deborah C. Rubin
+  - Anisa Shaker
+  - Marc S. Levin
+  publisher: Frontiers in Immunology
+  date: '2012-01-01'
+  link: https://doi.org/f99zp8
+- id: doi:10.1038/485181a
+  title: One step closer to gut repair
+  authors:
+  - Anisa Shaker
+  - Deborah C. Rubin
+  publisher: Nature
+  date: '2012-05-01'
+  link: https://doi.org/gp32tf
+- id: doi:10.1016/j.trsl.2010.06.003
+  title: "Intestinal stem cells and epithelial\u2013mesenchymal interactions in the\
+    \ crypt and stem cell niche"
+  authors:
+  - Anisa Shaker
+  - Deborah C. Rubin
+  publisher: Translational Research
+  date: '2010-09-01'
+  link: https://doi.org/b4x545
+- id: doi:10.1172/JCI40676
+  title: Epimorphin deletion protects mice from inflammation-induced colon carcinogenesis
+    and alters stem cell niche myofibroblast secretion
+  authors:
+  - Anisa Shaker
+  - Elzbieta A. Swietlicki
+  - Lihua Wang
+  - Shujun Jiang
+  - Birce Onal
+  - Shashi Bala
+  - Katherine DeSchryver
+  - Rodney Newberry
+  - Marc S. Levin
+  - Deborah C. Rubin
+  publisher: Journal of Clinical Investigation
+  date: '2010-06-01'
+  link: https://doi.org/dv34j6
+- id: pmid:15503887
+  title: Miriam Hospital morbidity and mortality conference, a case of chronic headaches.
+  authors:
+  - Anisa Shaker
+  - John E Snyder
+  publisher: Medicine and health, Rhode Island
+  date: '2004-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15503887
