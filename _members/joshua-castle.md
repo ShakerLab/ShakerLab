@@ -3,6 +3,7 @@ name: Joshua Castle
 image: images/joshua-castle.jpg
 description: Research Lab Technician II
 role: technician
+group: current
 links:
   linkedin: https://www.linkedin.com/in/joshua-castle-492572177/
   email: joshua.castle@med.usc.edu
