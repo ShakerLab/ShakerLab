@@ -3,6 +3,7 @@ name: Anisa Shaker
 image: images/anisa-shaker.jpg
 description: Associate Professor of Medicine
 role: pi
+group: current
 links:
   home-page: https://keck.usc.edu/faculty-search/anisa-shaker/ 
   email: anisa.shaker@med.usc.edu
