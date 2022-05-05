@@ -3,6 +3,7 @@ name: Atousa Khalatbari
 image: images/atousa-khalatbari.jpg
 description: Research Associate
 role: postdoc
+group: current
 links:
   email: atousa.khalatbari@med.usc.edu
   linkedin: https://www.linkedin.com/in/atousa-khalatbari-73b9ab78
