@@ -23,5 +23,5 @@ mascot:
   text: Mascot
 
 technician:
-  icon: fa-solid fa-flask-vial
+  icon: fa-solid fa-flask-round-potion
   text: Lab Technician
