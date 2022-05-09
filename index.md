@@ -17,7 +17,7 @@ Our lab focuses on delineating the role of epithelial-stromal interactions in re
 # Current Projects
 
 {% capture text %}
-We are currently working on multiple grant-funded projects.
+We are establishing human esophageal myofibroblasts (HEMFs) from biopsies and full thickness specimens from normal and diseased human esophagus.
 
 {%
   include link.html
@@ -38,7 +38,8 @@ We are currently working on multiple grant-funded projects.
 %}
 
 {% capture text %}
-We are establishing human esophageal myofibroblasts (HEMFs) from biopsies and full thickness specimens from normal and diseased human esophagus.
+
+We use established and cutting-edge techniques including high throughput sequencing and complementary organoid/organotypic models to identify the role of human esophageal myofibroblasts in benign and malignant esophageal disorders.
 
 {%
   include link.html
@@ -60,7 +61,8 @@ We are establishing human esophageal myofibroblasts (HEMFs) from biopsies and fu
 %}
 
 {% capture text %}
-We use established and cutting-edge techniques including high throughput sequencing and complementary organoid/organotypic models to identify the role of human esophageal myofibroblasts in benign and malignant esophageal disorders.
+
+Pharyngeal muscle weakness and dysphagia is common in individuals post-stroke or with Parkinson’s disease and in individuals with head/neck cancer who have undergone surgery and/or radiation therapy. Therapeutic options for these patients are limited. In collaboration with our Speech Pathology colleagues, this pilot study is intended to assess the feasibility, safety, and efficacy of the External Pharyngeal Exerciser (EPE) on patients with pharyngeal dysphagia receiving swallow therapy.
 
 {%
   include link.html
@@ -80,4 +82,4 @@ We use established and cutting-edge techniques including high throughput sequenc
   text=text
 %}
 
-Pharyngeal muscle weakness and dysphagia is common in individuals post-stroke or with Parkinson’s disease and in individuals with head/neck cancer who have undergone surgery and/or radiation therapy. Therapeutic options for these patients are limited. In collaboration with our Speech Pathology colleagues, this pilot study is intended to assess the feasibility, safety, and efficacy of the External Pharyngeal Exerciser (EPE) on patients with pharyngeal dysphagia receiving swallow therapy.
+We are currently working on multiple grant-funded projects.
