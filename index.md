@@ -31,7 +31,7 @@ We are establishing human esophageal myofibroblasts (HEMFs) from biopsies and fu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/hemfs/hemf_cultured.jpg"
   link="hemfs"
   title="Human esophageal myofibroblasts (HEMFs)"
   text=text
@@ -53,7 +53,7 @@ We use established and cutting-edge techniques including high throughput sequenc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/esophageal-disorders/disorders.jpg"
   link="esophageal-disorders"
   title="Benign and malignant esophageal disorders"
   flip=true
@@ -81,5 +81,3 @@ Pharyngeal muscle weakness and dysphagia is common in individuals post-stroke or
   title="Oral-pharyngeal dysphagia therapy"
   text=text
 %}
-
-We are currently working on multiple grant-funded projects.
