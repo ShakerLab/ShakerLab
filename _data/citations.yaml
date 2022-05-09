@@ -12,7 +12,7 @@
   publisher: PLOS ONE
   date: '2020-09-14'
   link: https://doi.org/gp32s7
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/01_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_01.png
 - id: doi:10.1007/s10620-020-06482-1
   title: Gender-Specific Risk Factors for Reflux Esophagitis in a Predominantly Hispanic
     Population of a Large Safety-Net Hospital
@@ -27,7 +27,7 @@
   publisher: Digestive Diseases and Sciences
   date: '2020-07-20'
   link: https://doi.org/gg7dnn
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/02_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_02.png
 - id: doi:10.1038/s41598-018-30799-7
   title: Human esophageal myofibroblast secretion of bone morphogenetic proteins and
     GREMLIN1 and paracrine regulation of squamous epithelial growth
@@ -39,7 +39,7 @@
   publisher: Scientific Reports
   date: '2018-08-17'
   link: https://doi.org/gd7qs6
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/03_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_03.png
 - id: doi:10.1111/nyas.13157
   title: 'Contribution of immunomodulators to gastroesophageal reflux disease and
     its complications: stromal cells, interleukin 4, and adiponectin'
@@ -55,7 +55,7 @@
   publisher: Annals of the New York Academy of Sciences
   date: '2016-07-21'
   link: https://doi.org/gp32s9
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/04_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_04.png
 - id: doi:10.1111/nyas.13151
   title: Pharmacological and other treatment modalities for esophageal pain
   authors:
@@ -69,7 +69,7 @@
   publisher: Annals of the New York Academy of Sciences
   date: '2016-07-21'
   link: https://doi.org/gp32s8
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/05_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_05.png
 - id: doi:10.1111/nyas.13109
   title: Provocative testing of the esophagus and its future
   authors:
@@ -82,7 +82,7 @@
   publisher: Annals of the New York Academy of Sciences
   date: '2016-06-16'
   link: https://doi.org/gp32tb
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/06_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_06.png
 - id: doi:10.1371/journal.pone.0153185
   title: Generation and Characterization of an Immortalized Human Esophageal Myofibroblast
     Line
@@ -94,7 +94,7 @@
   publisher: PLOS ONE
   date: '2016-04-07'
   link: https://doi.org/f9hwzt
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/07_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_07.png
 - id: doi:10.1152/ajpgi.00333.2014
   title: Human esophageal myofibroblasts secrete proinflammatory cytokines in response
     to acid and Toll-like receptor 4 ligands
@@ -108,7 +108,7 @@
   publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
   date: '2015-06-01'
   link: https://doi.org/f7fwmp
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/08_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_08.png
 - id: doi:10.3791/52215
   title: Isolation of Myofibroblasts from Mouse and Human Esophagus
   authors:
@@ -118,7 +118,7 @@
   publisher: Journal of Visualized Experiments
   date: '2015-01-18'
   link: https://doi.org/gm5gj6
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/09_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_09.png
 - id: doi:10.1016/j.trsl.2014.03.007
   title: "Epimorphin\u2212/\u2212 mice are protected, in part, from acute colitis\
     \ via decreased interleukin 6 signaling"
@@ -134,7 +134,7 @@
   publisher: Translational Research
   date: '2014-07-01'
   link: https://doi.org/gp32tc
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/10_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_10.png
 - id: doi:10.1038/ajg.2013.289
   title: Multiple Rapid Swallow Responses During Esophageal High-Resolution Manometry
     Reflect Esophageal Body Peristaltic Reserve
@@ -148,7 +148,7 @@
   publisher: American Journal of Gastroenterology
   date: '2013-11-01'
   link: https://doi.org/f5g9wd
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/11_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_11.png
 - id: doi:10.1152/ajpgi.00486.2012
   title: Epimorphin deletion inhibits polyposis in the<i>Apc</i><sup><i>min/+</i></sup>mouse
     model of colon carcinogenesis via decreased myofibroblast HGF secretion
@@ -163,7 +163,7 @@
   publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
   date: '2013-10-15'
   link: https://doi.org/f5c7bt
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/12_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_12.png
 - id: doi:10.1152/ajpgi.00225.2012
   title: Stromal cells participate in the murine esophageal mucosal injury response
   authors:
@@ -177,7 +177,7 @@
   publisher: American Journal of Physiology-Gastrointestinal and Liver Physiology
   date: '2013-04-01'
   link: https://doi.org/f4vvm7
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/13_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_13.png
 - id: doi:10.3791/4100
   title: Modeling Colitis-Associated Cancer with Azoxymethane (AOM) and Dextran Sulfate
     Sodium (DSS)
@@ -189,7 +189,7 @@
   publisher: Journal of Visualized Experiments
   date: '2012-09-11'
   link: https://doi.org/ghx6rd
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/14_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_14.png
 - id: doi:10.1007/s00464-012-2350-0
   title: The value of multiple rapid swallows during preoperative esophageal manometry
     before laparoscopic antireflux surgery
@@ -203,7 +203,7 @@
   publisher: Surgical Endoscopy
   date: '2012-05-31'
   link: https://doi.org/gp32td
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/15_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_15.png
 - id: doi:10.1038/485181a
   title: One step closer to gut repair
   authors:
@@ -212,7 +212,7 @@
   publisher: Nature
   date: '2012-05-01'
   link: https://doi.org/gp32tf
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/16_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_16.png
 - id: doi:10.3389/fimmu.2012.00107
   title: 'Chronic intestinal inflammation: inflammatory bowel disease and colitis-associated
     colon cancer'
@@ -223,7 +223,7 @@
   publisher: Frontiers in Immunology
   date: '2012-01-01'
   link: https://doi.org/f99zp8
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/17_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_17.png
 - id: doi:10.1016/j.trsl.2010.06.003
   title: "Intestinal stem cells and epithelial\u2013mesenchymal interactions in the\
     \ crypt and stem cell niche"
@@ -233,7 +233,7 @@
   publisher: Translational Research
   date: '2010-09-01'
   link: https://doi.org/b4x545
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/18_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_18.png
 - id: doi:10.1172/JCI40676
   title: Epimorphin deletion protects mice from inflammation-induced colon carcinogenesis
     and alters stem cell niche myofibroblast secretion
@@ -251,7 +251,7 @@
   publisher: Journal of Clinical Investigation
   date: '2010-06-01'
   link: https://doi.org/dv34j6
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/19_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_19.png
 - id: pmid:15503887
   title: Miriam Hospital morbidity and mortality conference, a case of chronic headaches.
   authors:
@@ -260,4 +260,4 @@
   publisher: Medicine and health, Rhode Island
   date: '2004-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15503887
-  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/20_thumb.png
+  image: https://raw.githubusercontent.com/ShakerLab/shakerlab.github.io/main/images/thumbnails/thumb_20.png
