@@ -81,7 +81,7 @@ body {
   <div class="column">
     <a href="https://www.niddk.nih.gov/"><img src="https://www.niddk.nih.gov/-/media/Images/Components/common/site-logo-full.svg" style="width:100%"></a>
     <a href="https://www.niaaa.nih.gov/"><img src="https://www.niaaa.nih.gov/sites/default/themes/solstice/niaaa-logo.png" style="width:100%"></a>
-    <a href="https://keck.usc.edu/"><img src="https://keck.usc.edu/wp-content/themes/Avada-Child-Theme/keck/img/logo_keckUSC.svg" style="width:100%"></a>
+    <a href="https://keck.usc.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Keck_School_of_Medicine_logo.svg" style="width:100%"></a>
   </div>
   <div class="column">
     <a href="https://degregorio.org/"><img src="https://degregorio.org/wp-content/uploads/2021/03/DeGregorio-logo.png" style="width:100%"></a>
