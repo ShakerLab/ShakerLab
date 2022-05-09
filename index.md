@@ -2,9 +2,40 @@
 title: Home
 ---
 
-# About Us
+{::nomarkdown}
+<script>
+document.onmousemove = function(){
+var x = event.offsetX;
+var y = event.offsetY;    
+document.getElementById("p2").style.backgroundPositionX = -x + "px";
+document.getElementById("p2").style.backgroundPositionY = -y + "px";        
+}
+</script>
+<style>
+.header {
+  background: #ffffff;
+  height: 300px;
+  filter: blur(0.5rem);
+  background-image: url(https://github.com/ShakerLab/shakerlab.github.io/blob/main/images/background.jpg?raw=true);
+}
+.bg-text {
+  color: gray;
+  position: absolute;
+  top: 35%;
+  left: 80%;
+  transform: translate(-50%, -150%);
+  width: 50%;
+  text-align: center;
+}
+</style>
 
-Our lab focuses on delineating the role of epithelial-stromal interactions in regulating injury, repair, inflammation and cancer development in the human esophagus. We use a variety of experimental approaches including traditional cell culture and complementary 3D-organotypic/organoid models to recapitulate esophageal tissue and disease in vitro to understand the  pathways involved. We also use databases and pathology samples to learn more about clinical risk factors for disease and to study the human esophagus in different states: healthy, inflamed or damaged, and with cancer.
+<div class="header" id="p2"></div>
+<div class="bg-text">
+<h1 style="font-size:50px">About</h1>
+Our lab focuses on delineating the role of epithelial-stromal interactions in regulating injury, repair, inflammation and cancer development in the human esophagus. We use a variety of experimental approaches including traditional cell culture and complementary 3D-organotypic/organoid models to recapitulate esophageal tissue and disease in vitro to understand the pathways involved. We also use databases and pathology samples to learn more about clinical risk factors for disease and to study the human esophagus in different states: healthy, inflamed or damaged, and with cancer.
+</div>
+
+{:/nomarkdown}
 
 {:.center}
 
