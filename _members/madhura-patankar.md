@@ -1,6 +1,6 @@
 ---
 name: Madhura Patankar
-image: images/madhura-patankar.jpg
+image: images/members/madhura-patankar.jpg
 description: Research Associate
 role: postdoc
 group: former
