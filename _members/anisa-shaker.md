@@ -1,6 +1,6 @@
 ---
 name: Anisa Shaker
-image: images/anisa-shaker.jpg
+image: images/members/anisa-shaker.jpg
 description: Associate Professor of Medicine
 role: pi
 group: current
