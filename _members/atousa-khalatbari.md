@@ -1,6 +1,6 @@
 ---
 name: Atousa Khalatbari
-image: images/atousa-khalatbari.jpg
+image: images/members/atousa-khalatbari.jpg
 description: Research Associate
 role: postdoc
 group: current
