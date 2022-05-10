@@ -1,6 +1,6 @@
 ---
 name: Liping Hu
-image: images/liping-hu.jpg
+image: images/members/liping-hu.jpg
 description: Research Associate
 role: postdoc
 group: former
