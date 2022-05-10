@@ -1,6 +1,6 @@
 ---
 name: Joshua Castle
-image: images/joshua-castle.jpg
+image: images/members/joshua-castle.jpg
 description: Research Lab Technician II
 role: technician
 group: current
