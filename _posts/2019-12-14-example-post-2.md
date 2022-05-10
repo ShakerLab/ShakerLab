@@ -1,21 +1,9 @@
 ---
-title: Example post 2
-author: Felix Cited
-member: felix-cited
+title: Oral-pharyngeal dysphagia therapy
+author: Anisa Shaker
+member: anisa-shaker
+redirect_from: /oral-pharyngeal-dysphagia
 ---
+Pharyngeal muscle weakness and dysphagia is common in individuals post-stroke or with Parkinson’s disease and in individuals with head/neck cancer who have undergone surgery and/or radiation therapy. Therapeutic options for these patients are limited. In collaboration with our Speech Pathology colleagues, this pilot study is intended to assess the feasibility, safety, and efficacy of the External Pharyngeal Exerciser (EPE) on patients with pharyngeal dysphagia receiving swallow therapy. Feasibility will be assessed by patient acceptance and practice records. Safety will be compared between groups to test whether there is an increased risk of the EPE versus standard therapy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Amet porttitor eget dolor morbi.
-Est ullamcorper eget nulla facilisi etiam dignissim diam.
-A pellentesque sit amet porttitor eget dolor morbi non.
-Id nibh tortor id aliquet lectus proin nibh nisl.
-Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis a.
-Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.
-Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
-Congue eu consequat ac felis donec et odio pellentesque diam.
-Ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.
-Urna molestie at elementum eu.
-Purus faucibus ornare suspendisse sed nisi lacus sed viverra.
-Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque.
-Dolor magna eget est lorem ipsum.
-Feugiat scelerisque varius morbi enim nunc faucibus a.
+Studies are currently underway. See [ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05267314)
