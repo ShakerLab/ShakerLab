@@ -1,6 +1,6 @@
 ---
 name: Chunying Zhang
-image: images/chunying-zhang.jpg
+image: images/members/chunying-zhang.jpg
 description: Research Associate
 role: postdoc
 group: former
