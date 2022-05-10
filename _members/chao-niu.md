@@ -1,6 +1,6 @@
 ---
 name: Chao Niu
-image: images/chao-niu.jpg
+image: images/members/chao-niu.jpg
 description: Research Scientist
 role: postdoc
 group: former
