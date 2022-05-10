@@ -25,3 +25,7 @@ mascot:
 technician:
   icon: fa-solid fa-flask-vial
   text: Lab Technician
+  
+specialist:
+  icon: fa-solid fa-vials
+  text: Lab Specialist 
