@@ -44,25 +44,16 @@ We are located in room 810 on the 8th floor of the [Ellaine Stevely Hoffman Medi
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-The Shaker Laboratory<br>
+<center>The Shaker Laboratory<br>
 HMR 810<br>
 2011 Zonal Ave<br>
-Los Angeles, CA 90089-9091<br>
+Los Angeles, CA 90089-9091<br></center>
 {% include figure.html image="https://upload.wikimedia.org/wikipedia/commons/1/13/Keck_School_of_Medicine_logo.svg" link="https://keck.usc.edu/" width="200px" %}
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="https://keck.usc.edu/gastrointestinal-liver-diseases-division/wp-content/uploads/sites/146/2015/04/About-Default.jpg"
+  caption="USC Health Sciences Campus"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{:.center}
