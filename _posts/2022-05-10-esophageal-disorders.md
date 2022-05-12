@@ -5,8 +5,6 @@ member: anisa-shaker
 redirect_from: /esophageal-disorders
 ---
 
-# Benign and malignant esophageal disorders
-
 We use established and cutting-edge techniques including high throughput sequencing and complementary organoid/organotypic models to identify the role of human esophageal myofibroblasts in benign and malignant esophageal disorders.
 
 ## Gastro-esophageal reflux disease (GERD) 
